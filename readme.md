@@ -1,4 +1,4 @@
-# Project 1 - Project 1 - Street Style Hero Section
+# Project 1 Resturant Hero Section
 
 * This project is a hero section of the resturant website.
 
