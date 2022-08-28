@@ -3,7 +3,8 @@
 * This project is a hero section of the resturant website.
 
 ## Check the live link.
-[Resturant hero section](https://street-style-delta.vercel.app/)
+
+[Resturant hero section](https://resturant-hero-section.vercel.app/)
 
 ![badge](https://img.shields.io/badge/Vercel-Vercel-green)
  
